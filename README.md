@@ -14,6 +14,9 @@
 * Построение API/BFF на основе Nest.js
 * Архитектуру ПО, в частности архитектуру фронтенд-приложений
 
+# Контакты
+* Telegram: https://t.me/badiullinnail
+
 <!--
 **NeiruBugz/NeiruBugz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
