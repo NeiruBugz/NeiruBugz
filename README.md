@@ -9,8 +9,6 @@
 * Node.js (Express)
 
 # В данный момент изучаю: 
-* React Native
-* Построение API/BFF на основе Nest.js
 * Архитектуру ПО, в частности архитектуру фронтенд-приложений
 
 # Контакты
@@ -42,8 +40,6 @@ My name is Nail and I'm a JavaScript engineer. I'm building complex web-services
 * Node.js (Express)
 
 # Currently learning:
-* React Native
-* Nest.js-based APIs/BFFs
 * Software architecture, primarily frontend applications architecture
 
 # Contact me
