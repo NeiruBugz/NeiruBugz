@@ -5,8 +5,10 @@
 # В моем стеке: 
 * React
 * Redux
+* MobX
 * TypeScript
-* Node.js (Express)
+* Jest
+* Playwright
 
 # В данный момент изучаю: 
 * Архитектуру ПО, в частности архитектуру фронтенд-приложений
@@ -36,8 +38,10 @@ My name is Nail and I'm a JavaScript engineer. I'm building complex web-services
 # My tech-stack:
 * React
 * Redux
+* MobX
 * TypeScript
-* Node.js (Express)
+* Jest
+* Playwright
 
 # Currently learning:
 * Software architecture, primarily frontend applications architecture
