@@ -1,6 +1,6 @@
 # Hello 👋
 
-My name is Nail and I'm a JavaScript engineer. I'm building complex web-services and highly-usable interfaces
+My name is Nail and I'm a JavaScript engineer, developing complex web-services and highly-usable interfaces
 
 # My tech-stack:
 * React
