@@ -1,3 +1,22 @@
+# Hello 👋
+
+My name is Nail and I'm a JavaScript engineer. I'm building complex web-services and highly-usable interfaces
+
+# My tech-stack:
+* React
+* Redux
+* MobX
+* TypeScript
+* Jest
+* Playwright
+
+# Currently learning:
+* Software architecture, primarily frontend applications architecture
+
+# Contact me
+* [Telegram](https://t.me/badiullinnail)
+
+
 # Привет 👋
 
 Меня зовут Наиль и я JavaScript-разработчик и я занимаюсь разработкой сложных сервисов и удобных интерфейсов
@@ -30,21 +49,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hello 👋
-
-My name is Nail and I'm a JavaScript engineer. I'm building complex web-services and highly-usable interfaces
-
-# My tech-stack:
-* React
-* Redux
-* MobX
-* TypeScript
-* Jest
-* Playwright
-
-# Currently learning:
-* Software architecture, primarily frontend applications architecture
-
-# Contact me
-* [Telegram](https://t.me/badiullinnail)
