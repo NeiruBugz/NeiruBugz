@@ -4,10 +4,10 @@ My name is Nail and I'm a JavaScript engineer, developing complex web-services a
 
 # My tech-stack:
 * React
-* Redux
-* MobX
+* Zustand
+* Next.js
 * TypeScript
-* Jest
+* Vitest
 * Playwright
 
 # Currently learning:
